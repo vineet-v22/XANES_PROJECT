@@ -1,0 +1,99 @@
+No linear formula for Edge_e
+No linear formula for Edge_e
+Score=0.91. Model: Edge_slope = -0.10*CN+0.96*FeODist-0.13*stdDist
+        Score=0.87. Model: Edge_slope = +0.93*FeODist
+        Score=0.90. Model: Edge_slope = +0.96*FeODist-0.17*stdDist
+        Score=0.90. Model: Edge_slope = -0.15*CN+0.94*FeODist
+        Score=0.91. Model: Edge_slope = +0.96*FeODist-0.13*stdDist-0.10*CN
+Score=0.92. Model: Edge_slope = -0.10*CN+0.96*FeODist-0.12*stdDist+0.09*CN^2-0.03*CN*FeODist+0.01*CN*stdDist-0.05*FeODist^2+0.02*FeODist*stdDist-0.02*stdDist^2-0.02
+        Score=0.87. Model: Edge_slope = +0.93*FeODist
+        Score=0.90. Model: Edge_slope = +0.96*FeODist-0.17*stdDist
+        Score=0.90. Model: Edge_slope = -0.15*CN+0.94*FeODist
+        Score=0.91. Model: Edge_slope = +0.96*FeODist-0.13*stdDist-0.10*CN
+        Score=0.91. Model: Edge_slope = +0.95*FeODist-0.17*stdDist+0.08*CN^2-0.08
+        Score=0.90. Model: Edge_slope = +0.97*FeODist-0.18*stdDist-0.04*FeODist^2+0.04
+No linear formula for Pit_d2
+Score=0.53. Model: Pit_d2 = +0.62*CN+0.05*FeODist-0.35*stdDist-0.14*CN*FeODist-0.09*CN*stdDist+0.36*FeODist^2+0.08*FeODist*stdDist-0.33
+        Score=0.51. Model: Pit_d2 = +0.62*CN+0.37*FeODist^2-0.37*stdDist-0.37
+Score=0.88. Model: Pit_e = +0.13*CN-0.94*FeODist+0.06*stdDist
+        Score=0.86. Model: Pit_e = -0.92*FeODist
+        Score=0.88. Model: Pit_e = +0.15*CN-0.93*FeODist
+        Score=0.87. Model: Pit_e = -0.94*FeODist+0.11*stdDist
+        Score=0.88. Model: Pit_e = +0.13*CN-0.94*FeODist+0.06*stdDist
+Score=0.90. Model: Pit_e = +0.15*CN-0.97*FeODist+0.08*stdDist-0.08*CN^2-0.06*CN*FeODist+0.08*FeODist^2-0.09*FeODist*stdDist+0.01*stdDist^2+0.01
+        Score=0.86. Model: Pit_e = -0.92*FeODist
+        Score=0.88. Model: Pit_e = +0.15*CN-0.93*FeODist
+        Score=0.87. Model: Pit_e = -0.94*FeODist+0.11*stdDist
+        Score=0.89. Model: Pit_e = +0.16*CN-0.95*FeODist-0.08*CN*FeODist+0.01
+        Score=0.88. Model: Pit_e = +0.16*CN-0.95*FeODist-0.08*FeODist*stdDist+0.01
+        Score=0.88. Model: Pit_e = +0.15*CN-0.93*FeODist-0.08*CN^2+0.08
+Score=0.81. Model: Pit_e-WL_e = +0.14*CN-0.90*FeODist+0.04*stdDist
+        Score=0.79. Model: Pit_e-WL_e = -0.89*FeODist
+        Score=0.81. Model: Pit_e-WL_e = +0.15*CN-0.90*FeODist
+        Score=0.80. Model: Pit_e-WL_e = -0.90*FeODist+0.09*stdDist
+        Score=0.81. Model: Pit_e-WL_e = +0.14*CN-0.90*FeODist+0.04*stdDist
+Score=0.86. Model: Pit_e-WL_e = +0.16*CN-0.93*FeODist+0.06*stdDist-0.17*CN^2-0.10*CN*FeODist+0.04*FeODist^2-0.11*FeODist*stdDist+0.16
+        Score=0.79. Model: Pit_e-WL_e = -0.89*FeODist
+        Score=0.81. Model: Pit_e-WL_e = -0.87*FeODist-0.18*CN^2+0.18
+        Score=0.81. Model: Pit_e-WL_e = +0.15*CN-0.90*FeODist
+        Score=0.83. Model: Pit_e-WL_e = -0.88*FeODist-0.18*CN^2+0.15*CN+0.18
+        Score=0.83. Model: Pit_e-WL_e = -0.88*FeODist-0.18*CN^2-0.12*CN*FeODist+0.19
+        Score=0.82. Model: Pit_e-WL_e = -0.89*FeODist-0.17*CN^2-0.11*FeODist*stdDist+0.19
+Score=0.88. Model: Pit_i = -0.97*CN+0.05*FeODist+0.66*stdDist
+        Score=0.87. Model: Pit_i = -0.97*CN+0.67*stdDist
+        Score=0.51. Model: Pit_i = -0.71*CN+0.13*FeODist
+        Score=0.88. Model: Pit_i = -0.97*CN+0.66*stdDist+0.05*FeODist
+Score=0.95. Model: Pit_i = -0.93*CN+0.03*FeODist+0.54*stdDist-0.02*CN^2+0.12*CN*FeODist+0.17*CN*stdDist-0.05*FeODist^2-0.12*FeODist*stdDist+0.13*stdDist^2-0.11
+        Score=0.87. Model: Pit_i = -0.97*CN+0.67*stdDist
+        Score=0.69. Model: Pit_i = -0.75*CN+0.33*stdDist^2-0.33
+        Score=0.91. Model: Pit_i = -0.94*CN+0.63*stdDist+0.22*CN*stdDist-0.09
+        Score=0.91. Model: Pit_i = -0.95*CN+0.57*stdDist+0.16*stdDist^2-0.16
+        Score=0.89. Model: Pit_i = -0.98*CN+0.66*stdDist+0.10*CN*FeODist-0.01
+Score=0.89. Model: WL-Pit_slope = +0.97*CN+0.31*FeODist-0.47*stdDist
+        Score=0.64. Model: WL-Pit_slope = +0.80*CN
+        Score=0.79. Model: WL-Pit_slope = +0.97*CN-0.42*stdDist
+        Score=0.71. Model: WL-Pit_slope = +0.79*CN+0.25*FeODist
+        Score=0.89. Model: WL-Pit_slope = +0.97*CN-0.47*stdDist+0.31*FeODist
+Score=0.94. Model: WL-Pit_slope = +0.93*CN+0.35*FeODist-0.40*stdDist+0.08*CN^2+0.14*CN*FeODist-0.14*CN*stdDist+0.01*FeODist^2+0.03*FeODist*stdDist-0.09*stdDist^2+0.03
+        Score=0.65. Model: WL-Pit_slope = +0.80*CN
+        Score=0.79. Model: WL-Pit_slope = +0.97*CN-0.42*stdDist
+        Score=0.72. Model: WL-Pit_slope = +0.83*CN-0.20*stdDist^2+0.20
+        Score=0.89. Model: WL-Pit_slope = +0.97*CN-0.47*stdDist+0.31*FeODist
+        Score=0.81. Model: WL-Pit_slope = +0.96*CN-0.35*stdDist-0.10*stdDist^2+0.10
+        Score=0.80. Model: WL-Pit_slope = +0.96*CN-0.42*stdDist+0.07*CN*FeODist
+Score=0.93. Model: WL_d2 = -0.95*CN-0.39*FeODist+0.32*stdDist
+        Score=0.72. Model: WL_d2 = -0.85*CN
+        Score=0.85. Model: WL_d2 = -0.83*CN-0.35*FeODist
+        Score=0.78. Model: WL_d2 = -0.95*CN+0.26*stdDist
+        Score=0.93. Model: WL_d2 = -0.95*CN-0.39*FeODist+0.32*stdDist
+Score=0.96. Model: WL_d2 = -0.92*CN-0.42*FeODist+0.27*stdDist-0.06*CN^2-0.07*CN*FeODist+0.12*CN*stdDist+0.05*FeODist^2-0.01*FeODist*stdDist+0.07*stdDist^2-0.11
+        Score=0.73. Model: WL_d2 = -0.85*CN
+        Score=0.85. Model: WL_d2 = -0.83*CN-0.35*FeODist
+        Score=0.78. Model: WL_d2 = -0.95*CN+0.26*stdDist
+        Score=0.93. Model: WL_d2 = -0.95*CN-0.39*FeODist+0.32*stdDist
+        Score=0.91. Model: WL_d2 = -0.85*CN-0.37*FeODist+0.18*stdDist^2-0.18
+        Score=0.88. Model: WL_d2 = -0.82*CN-0.37*FeODist+0.19*CN*stdDist-0.08
+Score=0.62. Model: WL_e = +0.09*CN-0.79*FeODist+0.08*stdDist
+        Score=0.60. Model: WL_e = -0.77*FeODist
+        Score=0.61. Model: WL_e = +0.12*CN-0.78*FeODist
+        Score=0.61. Model: WL_e = -0.79*FeODist+0.12*stdDist
+        Score=0.62. Model: WL_e = +0.09*CN-0.79*FeODist+0.08*stdDist
+Score=0.65. Model: WL_e = +0.10*CN-0.83*FeODist+0.10*stdDist+0.11*CN^2+0.02*CN*FeODist+0.02*CN*stdDist+0.13*FeODist^2-0.02*FeODist*stdDist+0.02*stdDist^2-0.26
+        Score=0.60. Model: WL_e = -0.77*FeODist
+        Score=0.61. Model: WL_e = -0.78*FeODist+0.11*FeODist^2-0.11
+        Score=0.61. Model: WL_e = -0.79*FeODist+0.12*stdDist
+        Score=0.63. Model: WL_e = -0.81*FeODist+0.13*FeODist^2+0.15*stdDist-0.13
+        Score=0.63. Model: WL_e = -0.80*FeODist+0.12*FeODist^2+0.14*CN-0.12
+        Score=0.62. Model: WL_e = -0.80*FeODist+0.10*FeODist^2+0.10*CN^2-0.20
+Score=0.90. Model: WL_i = +0.97*CN-0.34*FeODist-0.34*stdDist
+        Score=0.66. Model: WL_i = +0.81*CN
+        Score=0.80. Model: WL_i = +0.84*CN-0.38*FeODist
+        Score=0.79. Model: WL_i = +0.97*CN-0.40*stdDist
+        Score=0.90. Model: WL_i = +0.97*CN-0.34*FeODist-0.34*stdDist
+Score=0.95. Model: WL_i = +0.95*CN-0.32*FeODist-0.28*stdDist+0.01*CN^2-0.12*CN*FeODist-0.10*CN*stdDist-0.07*FeODist^2+0.05*FeODist*stdDist-0.08*stdDist^2+0.18
+        Score=0.66. Model: WL_i = +0.81*CN
+        Score=0.80. Model: WL_i = +0.84*CN-0.38*FeODist
+        Score=0.79. Model: WL_i = +0.97*CN-0.40*stdDist
+        Score=0.90. Model: WL_i = +0.97*CN-0.34*FeODist-0.34*stdDist
+        Score=0.87. Model: WL_i = +0.86*CN-0.36*FeODist-0.19*stdDist^2+0.19
+        Score=0.84. Model: WL_i = +0.82*CN-0.35*FeODist-0.22*CN*stdDist+0.09

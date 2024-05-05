@@ -1,0 +1,1 @@
+Inverse method relative to constant prediction error = 0.0166
